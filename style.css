@@ -1,0 +1,22 @@
+
+
+
+
+
+
+.work-section-title{
+    display: flex;
+    justify-content: center;
+    text-underline-position: below;
+
+
+
+
+}
+
+
+
+.one-input-form{
+    display: flex;
+    justify-content: center;
+}
