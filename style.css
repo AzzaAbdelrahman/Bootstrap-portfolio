@@ -1,8 +1,17 @@
 
 
+.navbar-brand{
+    color: white;
+  
+}
+.nav-link{
+    color: white;
+}
 
 
-
+.page{
+    color: white;
+}
 
 .work-section-title{
     display: flex;
@@ -16,7 +25,26 @@
 
 
 
+.jumbo{
+    background-image: url(https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+    border-radius: 0%;
+    height: 100vh;
+    border-width: 0cap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.container-fluid{
+    padding: 0%;
+}
+
 .one-input-form{
     display: flex;
     justify-content: center;
+}
+
+
+.portfolio-title{
 }
