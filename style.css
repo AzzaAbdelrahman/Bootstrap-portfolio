@@ -26,13 +26,14 @@
 
 
 .jumbo{
-    background-image: url(https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+    background-image: url(https://img.freepik.com/free-photo/solid-concrete-wall-textured-backdrop_53876-129493.jpg);
     border-radius: 0%;
     height: 100vh;
     border-width: 0cap;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
  
 }
 
@@ -47,4 +48,15 @@
 
 
 .portfolio-title{
+}
+
+
+.nav-link{
+    color: white;
+}
+
+
+
+.about-me-1{
+    
 }
