@@ -57,6 +57,8 @@
 
 
 
-.about-me-1{
-    
+.work-section-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
