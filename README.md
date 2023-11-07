@@ -9,7 +9,7 @@ Introduction
 This project is an interactive portfolio that showcases my work and achievements using Bootstrap. With Bootstrap, I was able to create a responsive and visually appealing portfolio website that adapts to various screen sizes, making it accessible to a wide audience.
 
 
-Portfolio Screenshot: https://github.com/AzzaAbdelrahman/Bootstrap-portfolio-Azza/blob/main/Images/S.png
+Portfolio Screenshot:https://github.com/AzzaAbdelrahman/Bootstrap-portfolio-Azza/blob/main/Images/S.png
 
 
 
